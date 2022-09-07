@@ -1,0 +1,67 @@
+CRITICAL - 2022-09-04 21:38:36 --> Function name must be a string
+in APPPATH\Controllers\Silpline.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Silpline->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Silpline))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-04 21:38:41 --> Function name must be a string
+in APPPATH\Controllers\Silpline.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Silpline->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Silpline))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-04 21:39:01 --> Function name must be a string
+in APPPATH\Controllers\Silpline.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Silpline->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Silpline))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-04 21:39:03 --> Function name must be a string
+in APPPATH\Controllers\Silpline.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Silpline->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Silpline))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-04 22:01:56 --> count(): Parameter must be an array or an object that implements Countable
+in APPPATH\Controllers\Silpline.php on line 39.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parameter must be an array or an object that implements Countable', 'APPPATH\\Controllers\\Silpline.php', 39, [...])
+ 2 APPPATH\Controllers\Silpline.php(39): count(null)
+ 3 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Silpline->index()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Silpline))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-04 22:08:20 --> Too few arguments to function App\Controllers\Silpline::listpayflex(), 0 passed in C:\xampp\htdocs\apibot\system\CodeIgniter.php on line 904 and exactly 1 expected
+in APPPATH\Controllers\Silpline.php on line 128.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Silpline->listpayflex()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Silpline))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-04 22:08:21 --> Too few arguments to function App\Controllers\Silpline::listpayflex(), 0 passed in C:\xampp\htdocs\apibot\system\CodeIgniter.php on line 904 and exactly 1 expected
+in APPPATH\Controllers\Silpline.php on line 128.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Silpline->listpayflex()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Silpline))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-04 22:47:10 --> count(): Parameter must be an array or an object that implements Countable
+in APPPATH\Controllers\Silpline.php on line 73.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parameter must be an array or an object that implements Countable', 'APPPATH\\Controllers\\Silpline.php', 73, [...])
+ 2 APPPATH\Controllers\Silpline.php(73): count(null)
+ 3 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Silpline->getSilp('HTC01-650073')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Silpline))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-04 23:24:45 --> Call to a member function getResultArray() on array
+in APPPATH\Controllers\Silpline.php on line 73.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Silpline->getSilp('HTC01-650073')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Silpline))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
