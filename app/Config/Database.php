@@ -34,7 +34,7 @@ class Database extends Config
         'DSN'      => '',
         'hostname' => 'localhost',
         'username' => 'jobpro_answer',
-        'password' => 'data_989answe',
+        'password' => 'data_989answer',
         'database' => 'jobpro_answer',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
